@@ -139,5 +139,3 @@ At `start = 0`, `i = 2`:
 Subarray = `[3, 4]` → sum = **7**
 
 ---
-
-If you want, I can also rewrite or optimize the code.
